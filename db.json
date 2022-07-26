@@ -1,0 +1,67 @@
+{
+
+    "employee": [
+  
+      {
+  
+        "id": 28574,
+  
+        "Employeename": "Akshata",
+  
+        "Designation": "Associate Trainee",
+  
+        "Department":"UI/UX"
+  
+      },
+  
+      {
+  
+        "id": 28456,
+  
+        "Employeename": "Irfan",
+  
+        "Designation": "Associate Trainee",
+  
+        "Department":"DotNet"
+  
+      },
+  
+      {
+  
+        "id": 28357,
+  
+        "Employeename": "Diwakar",
+  
+        "Designation": "Associate Trainee",
+  
+        "Department":"Testing"
+  
+      },
+  
+      {
+  
+        "id": 28457,
+  
+        "Employeename": "Chandan",
+  
+        "Designation": "Associate Trainee",
+  
+        "Department":"Java Full Stack"
+  
+      },
+  
+      {
+  
+        "id": 29399,
+  
+        "Employeename": "Madhu",
+  
+        "Designation": "Associate Trainee",
+  
+        "Department":"Datascience"
+  
+      }
+  
+    ]
+  
+  }
